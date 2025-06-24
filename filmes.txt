@@ -1,2 +1,3 @@
-"com grandes poderes vem grandes responsabilidades"
+"com grandes poderes vem grandes responsabilidades"{home aranha}
 "autobots vamos rodar"{transforms}
+"ao infinito e além" {toy story}
